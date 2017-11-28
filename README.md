@@ -1,1 +1,1 @@
-# ibid_work_repo
+# iBid-SCIC
